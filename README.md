@@ -1,6 +1,6 @@
-# pexos
+# Pexos
 
-pexos is a service that enables customers to execute arbitrary Python code on a cloud server.
+Pexos is a service that enables customers to execute arbitrary Python code on a cloud server.
 
 ## Overview
 
